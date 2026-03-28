@@ -4,6 +4,7 @@
 
 A beginner's log of PCB design projects — from a first 8051 dev board to power boards built for a robotics arm. Each board marks a stage in the learning process. All designs were made with **LCEDA**, a free EDA tool by JLCPCB.
 
+AI (Claude and Claude Code) helps a lot in writing readme.
 ---
 
 ## Repository Structure
